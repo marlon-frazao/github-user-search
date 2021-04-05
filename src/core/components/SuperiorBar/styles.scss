@@ -1,18 +1,15 @@
-.bar {
-    position: absolute;
+.main-nav {
+    height: 60px;
     width: 100%;
-    height: 60px;   
     color: #FFFFFF;
     align-items: center;
-    margin-right: 0;
-    margin-left: 0;
+    padding: 15px 0 15px 40px;
     background: #1890FF;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0px;
 }
 
 .text-bar {
-    font-size: 24px;
-    line-height: 32px;
-    display: flex;
-    align-items: center;
-    margin: 15px 0 40px 15px;
+    color: #fff;
 }

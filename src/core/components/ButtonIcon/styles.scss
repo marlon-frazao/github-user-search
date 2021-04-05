@@ -1,0 +1,21 @@
+.btn-icon {
+    width: 100px;
+    height: 40px;
+    margin-top: 50px;
+    background: #1890FF;
+    border-radius: 4px;
+    padding: 0px 18px 27px 18px;   
+    border: none;
+    &:hover {
+        background: #5daefa;
+    }
+}
+
+.btn-icon-text {
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
