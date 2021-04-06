@@ -1,0 +1,50 @@
+.container{
+    padding: 55px 100px 70px 90px;
+    display: flex;
+    align-items: center;
+}
+
+.search-card {
+    width: 665px;
+    height: 165px;
+    background: #E6F7FF;
+    border-radius: 16px;
+    padding: 65px 480px 40px 95px;
+}
+
+.text-title {
+    font-size: 38px;
+    line-height: 46px;
+    color: #262626;
+}
+
+.search-input {
+    margin-top: 12px;
+    margin-bottom: 25px;
+    padding: 10px 25px 10px 15px;
+    width: 635px;
+    height: 30px;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.card {
+    margin-top: 55px;
+}
+
+.response-card {
+    display: flex;
+    align-items: center;
+    background: #F5F5F5;
+    border-radius: 8px;
+    padding: 25px 25px 25px 30px;
+}
+
+.user-image {
+    width: 284px;
+    height: 280px;
+    margin-bottom: 15px;
+}
