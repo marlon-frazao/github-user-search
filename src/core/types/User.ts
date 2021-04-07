@@ -9,4 +9,5 @@ export type UserResponse = {
     blog: string;
     location: string;
     created_at: string;
+    public_repos: number;
 }
